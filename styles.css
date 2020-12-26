@@ -1,0 +1,13 @@
+body {
+    background: url(./images/bg-desktop.svg) no-repeat center center fixed;
+    background-color: rgb(103, 75, 177);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+ }
