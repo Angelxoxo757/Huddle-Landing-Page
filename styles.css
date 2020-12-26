@@ -1,6 +1,18 @@
 body {
     background: url(./images/bg-desktop.svg) no-repeat center center fixed;
     background-color: rgb(103, 75, 177);
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: #fff;
+}
+
+.huddle {
+    color: #fff;
 }
 
 .attribution {
